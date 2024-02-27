@@ -1,0 +1,15 @@
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\bin\Release\WpfHello.exe.config
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\bin\Release\WpfHello.exe
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\bin\Release\WpfHello.pdb
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\obj\Release\WpfHello.csproj.AssemblyReference.cache
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\obj\Release\MainWindow.g.cs
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\obj\Release\App.g.cs
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\obj\Release\WpfHello_MarkupCompile.cache
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\obj\Release\WpfHello_MarkupCompile.lref
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\obj\Release\MainWindow.baml
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\obj\Release\WpfHello.g.resources
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\obj\Release\WpfHello.Properties.Resources.resources
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\obj\Release\WpfHello.csproj.GenerateResource.cache
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\obj\Release\WpfHello.csproj.CoreCompileInputs.cache
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\obj\Release\WpfHello.exe
+C:\Users\ezznwp\source\repos\WpfHello\WpfHello\obj\Release\WpfHello.pdb
